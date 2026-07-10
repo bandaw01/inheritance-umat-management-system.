@@ -107,10 +107,10 @@ The parent class eliminates duplication by providing common functionality that c
 
 ```
 Student Information:
-Name: Gabriel
+Name: Bandaw
 Age: 21
 Student ID: ST12345
-Gabriel has enrolled in Object-Oriented Programming.
+Bandaw has enrolled in Object-Oriented Programming.
 
 Lecturer Information:
 Name: Dr. Mensah
