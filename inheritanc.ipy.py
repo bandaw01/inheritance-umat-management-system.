@@ -35,7 +35,7 @@ class Lecturer(Person):
 
 
 # Creating Objects
-student1 = Student("Gabriel", 21, "ST12345")
+student1 = Student("Bandaw", 21, "ST12335")
 lecturer1 = Lecturer("Dr. Mensah", 45, "EMP5678")
 
 # Demonstration
